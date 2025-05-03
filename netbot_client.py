@@ -493,7 +493,7 @@ def main():
     attack_thread = None
 
     server_list = [
-        ('192.168.73.119', 5555),
+        ('X.X.X.X', PPPP),
         # Add more backup servers if needed
     ]
 
